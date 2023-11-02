@@ -1,4 +1,4 @@
-FROM devfactory/workspace-full
+FROM gitpod/workspace-full
 
-RUN pyenv install 3.10.5 \
-    && pyenv global 3.10.5
+RUN pyenv install 3.11.6 \
+    && pyenv global 3.11.6

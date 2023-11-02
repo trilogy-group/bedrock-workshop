@@ -2,5 +2,8 @@ langchain
 streamlit
 chromadb
 boto3
-faiss-cpu
 unstructured
+pysqlite3-binary
+anthropic
+gptcache
+transformers
