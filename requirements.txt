@@ -1,0 +1,6 @@
+langchain
+streamlit
+chromadb
+boto3
+faiss-cpu
+unstructured
