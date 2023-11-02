@@ -1,7 +1,7 @@
 
 # AWS Bedrock and LangChain Workshop
 
-This repository contains code to create a question answering bot that can answer questions about AWS based on the [AWS Made Easy](https://www.youtube.com/channel/UC-iqkyAw-jFd0RtdRdqzvRQ) podcast. The bot is built using [AWS Bedrock](https://aws.amazon.com/bedrock/) for llms and [LangChain](https://www.langchain.com/).
+This repository contains code to create a question answering bot that can answer questions about AWS based on the [AWS Made Easy Livestream](https://www.youtube.com/channel/UC-iqkyAw-jFd0RtdRdqzvRQ) livestream. The bot is built using [AWS Bedrock](https://aws.amazon.com/bedrock/) for llms and [LangChain](https://www.langchain.com/).
 
 ## Workshop Agenda
 
@@ -31,8 +31,8 @@ In this workshop we will:
 
 - [AWS Bedrock](https://aws.amazon.com/bedrock/)
 - [LangChain](https://www.langchain.com/)
-- [AWS Made Easy Podcast](https://www.youtube.com/channel/UC-iqkyAw-jFd0RtdRdqzvRQ)
+- [AWS Made Easy Livestream](https://www.youtube.com/channel/UC-iqkyAw-jFd0RtdRdqzvRQ)
 
 ## Credits
 
-This workshop was created by Harsh Arya[https://github.com/harsharyacnu].
+This workshop was created by [Harsh Arya](https://github.com/harsharyacnu).
